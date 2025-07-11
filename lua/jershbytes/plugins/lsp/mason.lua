@@ -38,6 +38,9 @@ return {
         "pyright",
         "sqlls",
         "dockerls",
+        "ansiblels",
+        "yamlls",
+        "powershell_es"
       },
     }
 
